@@ -285,6 +285,20 @@ Nota: O projeto possui finalidade analítica e educacional. Os indicadores apres
 
 ## ⭐ Modo de Utilização
 
+1. Caso não tenha, baixe o QlikView: [https://help.qlik.com/pt-BR/qlikview/September2025/Subsystems/Client/Content/QV_QlikView/Installing%20QlikView.htm](https://help.qlik.com/pt-BR/qlikview/September2025/Subsystems/Client/Content/QV_QlikView/Installing%20QlikView.htm)
+2. clone o repositório e acesse o diretório:
+```
+git clone https://github.com/jcarlossc/dashboard-qlikview-accidents.git
+git dashboard-qlikview-accidents
+```
+3. Acesse o Qlikview:
+```
+Abrir/dashboard-qlikview-accidents/01_app/01_dashboard/acidentes_dashboard_v1.0.0.qvw
+```
+4. Caso queira editar:
+```
+Editar Script
+```
 
 ## 📜 Licença
 Este projeto está licenciado sob MIT License.
