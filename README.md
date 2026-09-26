@@ -43,14 +43,14 @@ O objetivo é facilitar a exploração dos dados e transformar informações ope
 
 O projeto foi desenvolvido com os seguintes objetivos:
 
-Consolidar informações sobre acidentes de trânsito.
-Identificar períodos e horários com maior concentração de ocorrências.
-Analisar a distribuição dos acidentes por região e bairro.
-Avaliar os tipos de veículos envolvidos.
-Comparar acidentes com vítimas e sem vítimas.
-Investigar possíveis relações entre acidentes, condições das vias, clima e sinalização.
-Criar indicadores que permitam uma leitura rápida dos principais acontecimentos.
-Desenvolver uma solução de BI com navegação e filtros interativos.
+* Consolidar informações sobre acidentes de trânsito.
+* Identificar períodos e horários com maior concentração de ocorrências.
+* Analisar a distribuição dos acidentes por região e bairro.
+* Avaliar os tipos de veículos envolvidos.
+* Comparar acidentes com vítimas e sem vítimas.
+* Investigar possíveis relações entre acidentes, condições das vias, clima e sinalização.
+* Criar indicadores que permitam uma leitura rápida dos principais acontecimentos.
+* Desenvolver uma solução de BI com navegação e filtros interativos.
 
 ## 🎯 Público-Alvo
 
